@@ -3,7 +3,6 @@
 - 🌱 I’m currently a Senior UG student of Applied Mathematics and Statistics 
 - 📫 How to reach me: 
 
-      Instagram: @7n62
       Email: AhmedARadhi00@gmail.com
 
 
