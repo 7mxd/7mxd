@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @7mxd
-- 👀 I’m interested in Data Science & Analysis, Deep Learning, Machine Learning, Artificial Intelligence, and Coding
-- 🌱 I’m currently a Junior UG student of Applied Mathematics and Statistics 
+- 👀 I’m interested in Data Science, Data Analysis, Deep Learning, Machine Learning, Artificial Intelligence, and Coding
+- 🌱 I’m currently a Senioe UG student of Applied Mathematics and Statistics 
 - 📫 How to reach me: 
 
       Instagram: @7n62
