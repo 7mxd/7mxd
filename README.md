@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @7mxd<br>👀 I’m interested in Data Science, Data Analysis, Deep Learning, Machine Learning, Artificial Intelligence, and Coding<br>🌱 I’m currently a Senior UG student of Applied Mathematics and Statistics<br><br>
+👋 Hi, I’m @7mxd<br>👀 I’m interested in Data Science, Data Analysis, Deep Learning, Machine Learning, Artificial Intelligence, and Coding<br>🌱 I’m currently a Senior UG student of Applied Mathematics and Statistics<br>📫 How to reach me: <br><br>      Email: AhmedARadhi00@gmail.com<br><br>
 
 
 ## 🌐 Socials:
@@ -16,6 +16,8 @@
 [![](https://visitcount.itsvg.in/api?id=7mxd&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
 <!---
 7mxd/7mxd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
