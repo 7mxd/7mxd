@@ -1,5 +1,10 @@
 # 💫 About Me:
-👋 Hi, I’m @7mxd<br>👀 I’m interested in Data Science, Data Analysis, Deep Learning, Machine Learning, Artificial Intelligence, and Coding<br>🌱 I’m currently a Senior UG student of Applied Mathematics and Statistics<br>📫 How to reach me: <br><br>      Email: AhmedARadhi00@gmail.com<br><br>
+👋 Hi, I’m @7mxd<br>
+👀 I’m interested in Data Science, Data Analysis, Deep Learning, Machine Learning, Artificial Intelligence, and Coding<br>
+🌱 I’m currently a Senior UG student of Applied Mathematics and Statistics<br>
+📫 How to reach me:  <br>
+
+      Email: AhmedARadhi00@gmail.com
 
 
 ## 🌐 Socials:
