@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @7mxd<br>
 👀 I’m interested in Data Science, Data Analysis, Machine Learning, and Quantitative Finance<br>
-🧑‍💻 I'm currently a Graduate Trainee Data Scientist at Saal.ai
+🧑‍💻 I'm currently a Graduate Trainee Data Scientist at Saal.ai<br>
 🌱 I’m an Applied Mathematics and Statistics Graduate<br>
 📫 How to reach me:  <br>
 
