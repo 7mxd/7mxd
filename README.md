@@ -1,11 +1,9 @@
 <h1 align="center">Hi there, I'm Ahmed 👋</h1>
-
 <p align="center">
   <a href="https://github.com/7mxd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Graduate+Trainee+Data+Scientist+%40+Saal.ai;Applied+Mathematics+%26+Statistics+Graduate;Data+Science+%7C+ML+%7C+Quantitative+Finance;Turning+data+into+decisions." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Graduate+Trainee+Data+Scientist+%40+Saal.ai;Applied+Mathematics+%26+Statistics+Graduate;Data+Science+%7C+Data+Analysis+%7C+Machine+Learning;Turning+data+into+decisions." alt="Typing SVG" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=7mxd&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/ahmed-r-828a98141">
@@ -23,7 +21,7 @@
 - 👋 Hi, I'm **@7mxd**
 - 🔭 I'm currently a **Graduate Trainee Data Scientist** at [Saal.ai](http://Saal.ai)
 - 🎓 **Applied Mathematics & Statistics** graduate
-- 👀 Interested in **Data Science**, **Data Analysis**, **Machine Learning**, and **Quantitative Finance**
+- 👀 Interested in **Data Science**, **Data Analysis**, and **Machine Learning**
 - ✍️ I work in Python, R, and SQL, and I love a clean LaTeX write-up
 - 📫 Reach me at **[AhmedARadhi00@gmail.com](mailto:AhmedARadhi00@gmail.com)**
 
@@ -42,9 +40,9 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 📊 **Quant Strategy Backtester** | Vectorized backtesting framework for equity & FX strategies with Sharpe, drawdown, and Monte Carlo analysis. | `Python` `Pandas` `NumPy` |
+| 🧹 **Data Cleaning Toolkit** | Reusable utilities for handling missing values, outliers, and feature engineering on real-world datasets. | `Python` `Pandas` `NumPy` |
 | 🧠 **ML Forecasting Toolkit** | End-to-end pipeline for time-series forecasting using XGBoost & LSTMs, with hyper-parameter tuning. | `scikit-learn` `TensorFlow` |
-| 📈 **Interactive EDA Dashboard** | Plotly Dash app for exploratory data analysis on financial datasets. | `Plotly` `Dash` `Pandas` |
+| 📈 **Interactive EDA Dashboard** | Plotly Dash app for exploratory data analysis on tabular datasets. | `Plotly` `Dash` `Pandas` |
 
 > 💡 Tip: Pin your top repos on your profile so they appear here automatically.
 
