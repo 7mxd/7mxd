@@ -31,7 +31,6 @@
 
 ## 🌱 Currently Learning
 
-- 📈 **Quantitative Finance**: derivatives pricing, stochastic calculus, and algorithmic trading strategies
 - 🤖 **Deep Learning**: transformers, time-series forecasting, and reinforcement learning
 - 🛠️ **MLOps**: turning notebooks into production pipelines (Docker, CI/CD, model monitoring)
 
