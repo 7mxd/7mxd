@@ -34,20 +34,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-> _Pinned repos coming soon. Placeholders below; replace the links with your actual repos when ready._
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🧹 **Data Cleaning Toolkit** | Reusable utilities for handling missing values, outliers, and feature engineering on real-world datasets. | `Python` `Pandas` `NumPy` |
-| 🧠 **ML Forecasting Toolkit** | End-to-end pipeline for time-series forecasting using XGBoost & LSTMs, with hyper-parameter tuning. | `scikit-learn` `TensorFlow` |
-| 📈 **Interactive EDA Dashboard** | Plotly Dash app for exploratory data analysis on tabular datasets. | `Plotly` `Dash` `Pandas` |
-
-> 💡 Tip: Pin your top repos on your profile so they appear here automatically.
-
----
-
 ## 🌐 Socials
 
 <p align="left">
