@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ahmed 👋</h1>
 <p align="center">
   <a href="https://github.com/7mxd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Graduate+Trainee+Data+Scientist+%40+Saal.ai;Applied+Mathematics+%26+Statistics+Graduate;Data+Science+%7C+Data+Analysis+%7C+Machine+Learning;Turning+data+into+decisions." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=900&lines=Graduate+Trainee+Data+Scientist+%40+Saal.ai;Applied+Mathematics+%26+Statistics+Graduate;Data+Science+%7C+Data+Analysis+%7C+Machine+Learning;Turning+data+into+decisions." alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
