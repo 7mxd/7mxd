@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1180px" height="530px" font-size="15px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #5EEAD4;}
+.value {fill: #E5E7EB;}
+.addColor {fill: #39ff14;}
+.delColor {fill: #ef4444;}
+.cc {fill: #5f6b7a;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1180px" height="530px" fill="black" rx="15"/>
+<g transform="translate(22,20) scale(0.40,0.88)">
+<text x="0" y="0" fill="#7DF9FF" class="ascii">
+<tspan x="-10" y="-30"/>
+<tspan x="-10" y="-21"/>
+<tspan x="-10" y="-12"/>
+<tspan x="-10" y="-3"/>
+<tspan x="-10" y="6">                                                    ........:....</tspan>
+<tspan x="-10" y="15">                                         .......   ...::..:::...::....</tspan>
+<tspan x="-10" y="24">                                    ...::..:----:.-=--.              .::.</tspan>
+<tspan x="-10" y="33">                                  ....:::  ..:. . ...                   .:</tspan>
+<tspan x="-10" y="42">                                 .::-:::                                 .:..       ..</tspan>
+<tspan x="-10" y="51">                               .:=*=-                                       .--:::.... ::</tspan>
+<tspan x="-10" y="60">                             ::-++-                                                .....</tspan>
+<tspan x="-10" y="69">                          .::=+:</tspan>
+<tspan x="-10" y="78">                        .=+*#-:                                                          :..</tspan>
+<tspan x="-10" y="87">                      . .--:.                                                               :</tspan>
+<tspan x="-10" y="96">                      ..+:                                                                  .:</tspan>
+<tspan x="-10" y="105">                       -                                                                     .</tspan>
+<tspan x="-10" y="114">                      .                                                                      ..</tspan>
+<tspan x="-10" y="123">                      .                                                                       ..</tspan>
+<tspan x="-10" y="132">                      ::                                                                       .</tspan>
+<tspan x="-10" y="141">                      .+                        :</tspan>
+<tspan x="-10" y="150">                       .:.                    :-:  .:.                                       ..</tspan>
+<tspan x="-10" y="159">                         .-:                .:-:*+:-*#+.::                                  :-</tspan>
+<tspan x="-10" y="168">                         ..-.        .---=+#%%#***#@@@@@@@#:                               ..</tspan>
+<tspan x="-10" y="177">                         ....        += .+#=:-+#@@@@@@@*#+:  .::+#++-:--:.                .</tspan>
+<tspan x="-10" y="186">                           .:::.     =: ...     ***+*@+ =*---===--*+-:-=+*+: :           .</tspan>
+<tspan x="-10" y="195">                              .:.   .%@@%**##*+==++#@@%*+-... .--:   .:   :=**=-.   :. =#</tspan>
+<tspan x="-10" y="204">                               ::    %%-.::        :*%@*: -* :--=#:. .:.:==+*==%-   #*--=</tspan>
+<tspan x="-10" y="213">                                     %*  =@=.:==#. :+#%*:.::.==+#@@#*++%%##*===#-  .@@%-</tspan>
+<tspan x="-10" y="222">                                   . %@%%==*%@%=::-+*#**==+++*++**#%%%%#%%%@%+=+: .*++%*</tspan>
+<tspan x="-10" y="231">                                    :%@%%%%###**+::-+#-:...-+@@%#+=+**#%@@@@%*++:   :=*=</tspan>
+<tspan x="-10" y="240">                                     #@%####*##*-+*#@@##-.   -%@@#####%%%%%%#=**:  #%=-.</tspan>
+<tspan x="-10" y="249">                                     =%@#####%#*%@@@@@@@@@@%+ -#@@@@@@%%#%##**#: .+##-.</tspan>
+<tspan x="-10" y="258">                                      *@@@@%%%%@#+*%@@#. .:%@-.=@@@@@@@@#%#*###. -##:</tspan>
+<tspan x="-10" y="267">                                      =@@@@#**##=+++%%:+*+++=:-=*#%%%%%#%#*#%*+           .</tspan>
+<tspan x="-10" y="276">                                      .*@@@######-::*@@%- ..:=+**#@@%%%#%#+*%#*.</tspan>
+<tspan x="-10" y="285">                                       -@@@%#%%=    -*+=-::--=:-++#%@#*%+=-+%%-     .:..</tspan>
+<tspan x="-10" y="294">                                        +@@@*-..*#*+***%#*%%%%+++. .-+##+-+%#:.</tspan>
+<tspan x="-10" y="303">                                        .#@@- +@++-   .    .  .=+++:-*%##=+*:</tspan>
+<tspan x="-10" y="312">                                         .#@%*=.   -+%%%@%+::::=#==#@@@%#---.  :.    .</tspan>
+<tspan x="-10" y="321">                                          .%@@##*##*+++#+--+*##*%#+##*#*=++-  *=</tspan>
+<tspan x="-10" y="330">                                           :#@@%##%%*-:: .====+==****##*##: .+#.</tspan>
+<tspan x="-10" y="339">                                            .*@@#+++:-+***%%*+******####*..-+*+:</tspan>
+<tspan x="-10" y="348">                                              =#@%%*::-%@@@%#%%%@#%*#*=:  =*#*=: .--=-.</tspan>
+<tspan x="-10" y="357">                                           -+==-=#@@#==%@@@%####%%%=-.  :#%#%#*.    -#%-</tspan>
+<tspan x="-10" y="366">                                      .-==:=-=#%%=-++%#%@@@@%%*+=:     =+#%%#**.  ::  +@*=.</tspan>
+<tspan x="-10" y="375">                                     +%*..:+###*%%#=....-+*=.      .:-=#%%##**+::-:. .*@@@@#=:..</tspan>
+<tspan x="-10" y="384">                                  .-*@+...@@#%#+*#%@%*-.    .-=--:=++*##%%*****++#+  %@@@@@@%#%@#+-::.</tspan>
+<tspan x="-10" y="393">                               :=#@@@@+.:@%%%@%***##%%%+++=+****+*%###%%%#**#***#+: =%@@@@@@**@@@%@%#@%+=-:.</tspan>
+<tspan x="-10" y="402">                          .:=#%@@@@@@.*+ @@%%%%#=*##%%##**#%@@@@@%####%%%######*: -%@@@@@@@#*%@@@@@+=@@@@%*=##**=-</tspan>
+<tspan x="-10" y="411">                      .-*#@@@@@@@@@%:*=-*@@%#%%#=***##%%#*##%@@%#####%%####%%#-.=%@@@@@@@@##%@@@@@==@@@*=::#@%=+@@*=-:::</tspan>
+<tspan x="-10" y="420">                  .=*%@@@@@@@@@@@%=  @-.@@%%%@@*+*###*##%%###%%@%%%%%%#**#%%#-=%@@@@@@@@@@%@@@@@%*=*@%==-*@%%+:=@@-*--@@</tspan>
+<tspan x="-10" y="429">               :=#@@@@@@@@@@@@@@@#.  -..*%#%%#+==*%@%*+#%%%%#%%%%%%%%#***%#=:#@@@@@@@@@@@#*@@@@@#=#@%=*=+@%-@@=+@**..*@@</tspan>
+<tspan x="-10" y="438">             =#@@@@@@@@@@@@@@@@@@@*     -*+*+--++*#%%#**%%@@@@@@%%%%@%###=:-#@@@@@@@@@@@**%@@@@#*=#@@*#-#@*=@@+#@+:.#@@@</tspan>
+<tspan x="-10" y="447">           =%@@@@@@@@@@@@@@@@@@@@@@-  -**=::::=+**##%#**#@@@@@@@@%%@@@#+.:#@@@@@@@@@@@@%*#@@@@@**-*@@@#=#@*=@@*#@* #@%@@</tspan>
+<tspan x="-10" y="456">         -%@@@@@@@@@@@@@@@@@@@@@@@@@= -%@@%#*===*+++**###%%%%%%%%%%@%+: :%@@@@@@@@@@@@@%#@@@@@@@#-*@@@#+%@*=@@#%@==@#*@#</tspan>
+<tspan x="-10" y="465">       .*@@@@@@@@@@@@@@@@@@@@@@@@@@@@%. +@@@@%%%%#+**++**#######%%%#- :%@@@@@@@@@@@@@@@%%@@%%@@@#:*@@@**%@%+@@###:@@%@@*</tspan>
+<tspan x="-10" y="474">      .%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#- -*@@@@@@@%%%#*####**#**+== -#@@@@@@@@@@@@@@@@@%@@@@@@@@#-#@@@**%@%+@@##@#@=*@%+</tspan>
+</text>
+</g>
+<text x="500" y="30" fill="#dbeafe">
+<tspan x="520" y="30" fill="#7DF9FF" font-size="17px">7mxd@data-terminal</tspan> -———————————————————————————————————————————-—-
+<tspan x="520" y="50" class="cc">. </tspan><tspan class="key">Subject</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Ahmed</tspan>
+<tspan x="520" y="70" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Data Scientist</tspan>
+<tspan x="520" y="90" class="cc">. </tspan><tspan class="key">Org</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Saal.ai</tspan>
+<tspan x="520" y="110" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Analyzing . Modeling . Deploying</tspan>
+<tspan x="520" y="130" class="cc">. </tspan><tspan class="key">ToolChain</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VS Code, Git, Jupyter, G-Colab</tspan>
+<tspan x="520" y="150" class="cc">. </tspan>
+<tspan x="520" y="170" class="cc">. </tspan><tspan class="key">Data</tspan>.<tspan class="key">Core</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Python, R, SQL, Java</tspan>
+<tspan x="520" y="190" class="cc">. </tspan><tspan class="key">Data</tspan>.<tspan class="key">ML</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">scikit-learn, TensorFlow, PyTorch, Keras</tspan>
+<tspan x="520" y="210" class="cc">. </tspan><tspan class="key">Data</tspan>.<tspan class="key">Science</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">NumPy, Pandas, SciPy, Jupyter</tspan>
+<tspan x="520" y="230" class="cc">. </tspan><tspan class="key">Data</tspan>.<tspan class="key">Viz</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Matplotlib, Seaborn, Plotly, Tableau</tspan>
+<tspan x="520" y="250" class="cc">. </tspan><tspan class="key">Data</tspan>.<tspan class="key">Stack</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Deep Learning, MLOps, Power BI, LaTeX</tspan>
+<tspan x="520" y="270" class="cc">. </tspan>
+<tspan x="520" y="290" fill="#FF5F87">- Contact</tspan> -—————————————————————————————————————————-—-
+<tspan x="520" y="310" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Mail</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">AhmedARadhi00@gmail.com</tspan>
+<tspan x="520" y="330" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">linkedin.com/in/ahmed-r-828a98141</tspan>
+<tspan x="520" y="350" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Github</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">github.com/7mxd</tspan>
+<tspan x="520" y="370" class="cc">. </tspan>
+<tspan x="520" y="390" fill="#FF5F87">- Currently Learning</tspan> -———————————————————————————————————-—-
+<tspan x="520" y="410" class="cc">. </tspan><tspan class="key">Next</tspan>.<tspan class="key">DL</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Transformers, Time-Series, RL</tspan>
+<tspan x="520" y="430" class="cc">. </tspan><tspan class="key">Next</tspan>.<tspan class="key">MLOps</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Docker, CI/CD, Model Monitoring</tspan>
+<tspan x="520" y="450" class="cc">. </tspan>
+<tspan x="520" y="470" class="cc">. </tspan><tspan class="key">Degree</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Applied Mathematics &amp; Statistics</tspan>
+<tspan x="520" y="500" class="cc">  </tspan><tspan fill="#5f6b7a" font-size="12px">// Turning data into decisions.</tspan>
+</text>
+</svg>
