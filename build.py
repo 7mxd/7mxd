@@ -74,7 +74,6 @@ def fetch_stats():
       followers { totalCount }
       following { totalCount }
       repositories(ownerAffiliations: OWNER, privacy: PUBLIC) { totalCount }
-      repositoriesContributedTo(contributionTypes: [COMMIT, PULL_REQUEST, REPOSITORY]) { totalCount }
       contributionsCollection { contributionCalendar { totalContributions } }
     } }""", login=LOGIN)
 
@@ -93,7 +92,6 @@ def fetch_stats():
 
     return {
         "repos": user["repositories"]["totalCount"],
-        "contributed": user["repositoriesContributedTo"]["totalCount"],
         "followers": user["followers"]["totalCount"],
         "following": user["following"]["totalCount"],
         "year": user["contributionsCollection"]["contributionCalendar"]["totalContributions"],
@@ -125,8 +123,8 @@ def row(*fields):
 def render(theme, stats):
     t = THEMES[theme]
     stat_rows = [
-        row(("Repos", stats["repos"], 14), ("Contributed", stats["contributed"], 20),
-            ("Followers", stats["followers"], 0)),
+        row(("Repos", stats["repos"], 14), ("Followers", stats["followers"], 20),
+            ("Following", stats["following"], 0)),
         row(("Contributions", f'{stats["year"]:,} (past year)', 36),
             ("All-time", f'{stats["total"]:,}', 0)),
     ]
